@@ -1,7 +1,3 @@
-# trial_task_aitl
+# Static UI in Flutter
 
-A new Flutter project.
-
-### Demo:
-
-[A Trial App in Flutter](https://i.imgur.com/KoueNaJ.gif)
+### Demo: [Click here](https://i.imgur.com/KoueNaJ.gif)
