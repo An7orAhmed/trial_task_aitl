@@ -4,4 +4,4 @@ A new Flutter project.
 
 ### Demo:
 
-![A Trial App in Flutter](https://i.imgur.com/KoueNaJ.gif)
+[A Trial App in Flutter](https://i.imgur.com/KoueNaJ.gif)
